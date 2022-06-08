@@ -1,5 +1,5 @@
 # PINN-Voltammetry-Best-Practices
-This is a code repository for "1-, 2- and 3-D Simulations of Voltammetry Using Physics-Informed Neural Networks – Pros, Cons and Best Practices" submitted to *Analytical Chemistry*.
+This is a code repository for "1-, 2- and 3-D Simulations of Voltammetry Using Physics-Informed Neural Networks – Pros, Cons and Best Practices" submitted to *Analyst*.
 
 # Requirements
 Python 3.7 and above is suggested to run the program. The neural networks was developed and tested with Tensorflow 2.3. To install required packages, run
