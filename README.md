@@ -27,5 +27,5 @@ Please report any issues/bugs of the code in the discussion forum of the reposit
 
 
 # Cite
-To cite, please refer to: (Cite unavailable yet)
+To cite, please refer to: ([A Critical Evaluation of Using Physics-Informed Neural Networks for Simulating Voltammetry: Strengths, Weaknesses and Best Practices](https://doi.org/10.1016/j.jelechem.2022.116918))
 
